@@ -20,7 +20,8 @@ ADMIN_ID = 493420924
 
 MOVIES = {
 "FILM001": "BAACAgIAAxkBAAMNah_5Pz5vNXqHz7BNfVIt_VGEFuIAArClAALBVwFJpW-ZesCPxWI7BA",
-}
+"FILM002": "BAACAgIAAxkBAAMbah__mbY63vcHhTe_5wz1kawMnZkAAg6mAALBVwFJnWQRunoVLt07BA",
+} 
 
 # ===================== LOGGING =====================
 logging.basicConfig(level=logging.INFO)
