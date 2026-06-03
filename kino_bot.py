@@ -8,7 +8,7 @@ from telegram.ext import (
 
 # ===================== SOZLAMALAR =====================
 
-BOT_TOKEN = "8494211778:AAHn1hINfWdd6BTI8-kYVKtb10eMs3DuPRU"
+BOT_TOKEN = "8949211778:AAGl1P-mkuykwgVKJiKaUvdSm-S2napH6xY"
 
 KANAL_ID = "@KinotekaShah"
 
