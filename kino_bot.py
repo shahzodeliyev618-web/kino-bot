@@ -10,7 +10,7 @@ from telegram.ext import (
 
 BOT_TOKEN = "8949211778:AAGl1P-mkuykwgVKJiKaUvdSm-S2napH6xY"
 
-KANAL_ID = "@kinoteka_shah"
+KANAL_ID = "@MediaLingvoShah"
 
 ADMIN_ID = 493420924
 
